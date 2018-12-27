@@ -7,7 +7,7 @@ Unbound is a validating, recursive, caching DNS resolver. It is designed to be f
 The purpose of this project is educational only and it will be used in non-professional environment
 
 ## Updates
- - 20 December 2018 : Started the scrip
+ - 20 December 2018 : Started the script
 
 ## Mention
 Thanks to : 
